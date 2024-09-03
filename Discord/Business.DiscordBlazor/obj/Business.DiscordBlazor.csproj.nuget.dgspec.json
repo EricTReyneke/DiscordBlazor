@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eric2\\source\\repos\\DiscordBlazor\\Business.DiscordBlazor\\Business.DiscordBlazor.csproj": {}
+    "C:\\DiscordBlazor\\Discord\\Business.DiscordBlazor\\Business.DiscordBlazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eric2\\source\\repos\\DiscordBlazor\\Business.DiscordBlazor\\Business.DiscordBlazor.csproj": {
+    "C:\\DiscordBlazor\\Discord\\Business.DiscordBlazor\\Business.DiscordBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eric2\\source\\repos\\DiscordBlazor\\Business.DiscordBlazor\\Business.DiscordBlazor.csproj",
+        "projectUniqueName": "C:\\DiscordBlazor\\Discord\\Business.DiscordBlazor\\Business.DiscordBlazor.csproj",
         "projectName": "Business.DiscordBlazor",
-        "projectPath": "C:\\Users\\eric2\\source\\repos\\DiscordBlazor\\Business.DiscordBlazor\\Business.DiscordBlazor.csproj",
+        "projectPath": "C:\\DiscordBlazor\\Discord\\Business.DiscordBlazor\\Business.DiscordBlazor.csproj",
         "packagesPath": "C:\\Users\\eric2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eric2\\source\\repos\\DiscordBlazor\\Business.DiscordBlazor\\obj\\",
+        "outputPath": "C:\\DiscordBlazor\\Discord\\Business.DiscordBlazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
