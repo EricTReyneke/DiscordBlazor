@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordDatabaseApis", "DiscordDatabaseApis\DiscordDatabaseApis.csproj", "{623E5418-1B87-4571-BE2A-0001EF87460D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.BlazorDatabaseApis", "Data.BlazorDatabaseApis\Data.BlazorDatabaseApis.csproj", "{7F0AA3F8-DD18-4C7E-882D-5665C81AA8D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623E5418-1B87-4571-BE2A-0001EF87460D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623E5418-1B87-4571-BE2A-0001EF87460D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623E5418-1B87-4571-BE2A-0001EF87460D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623E5418-1B87-4571-BE2A-0001EF87460D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0AA3F8-DD18-4C7E-882D-5665C81AA8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0AA3F8-DD18-4C7E-882D-5665C81AA8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0AA3F8-DD18-4C7E-882D-5665C81AA8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0AA3F8-DD18-4C7E-882D-5665C81AA8D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A83F355-C5F8-4F24-9D21-B9FB5BA61D01}
+	EndGlobalSection
+EndGlobal
