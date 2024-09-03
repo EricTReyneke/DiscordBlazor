@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Business.DiscordBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+738615f7cc4090075211e9bbc69c7efb44fb9120")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2f3fca848767df558487ca9f727442645f98b40")]
 [assembly: System.Reflection.AssemblyProductAttribute("Business.DiscordBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Business.DiscordBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
