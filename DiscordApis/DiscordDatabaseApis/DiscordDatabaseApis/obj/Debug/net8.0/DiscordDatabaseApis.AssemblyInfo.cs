@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiscordDatabaseApis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8750ba7f16008252284d30c943cd27605e1759a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiscordDatabaseApis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiscordDatabaseApis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
