@@ -1,4 +1,7 @@
 ﻿@page "/Login"
+@using Blazored.Toast.Services
+@inject DiscordDataOperations DiscordDataOperations;
+@inject IToastService ToastService
 
 <link rel="stylesheet" href="./css/LoginStyles.css">
 
@@ -16,7 +19,7 @@
 
             <a href="/Forgot">Forgot your password?</a>
 
-            <button type="button" class="login-btn">Log In</button>
+            <button type="button" class="login-btn" @onclick=ValidateUserLogin>Log In</button>
 
             <br />
 
@@ -32,4 +35,22 @@
 </div>
 
 @code {
+    #region Fields
+    string _username = string.Empty;
+    string _password = string.Empty;
+    #endregion
+
+    #region Private Methods
+    private void ValidateUserLogin()
+    {
+        try
+        {
+            throw new Exception();
+        }
+        catch
+        {
+            ToastService.ShowError("Error occured trying to complete the login. Please try again.");
+        }
+    }
+    #endregion
 }
