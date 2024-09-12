@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBlazor", "DiscordBlazor\DiscordBlazor.csproj", "{910CF7D6-8B4A-4FCA-AFBC-27C6D1056CFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordBlazor", "DiscordBlazor\DiscordBlazor.csproj", "{910CF7D6-8B4A-4FCA-AFBC-27C6D1056CFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.DiscordBlazor", "Business.DiscordBlazor\Business.DiscordBlazor.csproj", "{636B4988-DCF0-453A-BB0B-B4984E21D410}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business.DiscordBlazor", "Business.DiscordBlazor\Business.DiscordBlazor.csproj", "{636B4988-DCF0-453A-BB0B-B4984E21D410}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

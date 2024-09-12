@@ -1,0 +1,35 @@
+﻿@page "/Login"
+
+<link rel="stylesheet" href="./css/LoginStyles.css">
+
+<div class="login-container">
+    <div class="login-content-container">
+        <div class="login-control">
+            <h1>Welcome back!</h1>
+            <h5 class="light-gray-text">We're so excited to see you again!</h5>
+
+            <label for="emailOrPhone">EMAIL OR PHONE NUMBER<span class="red-star"> *</span></label>
+            <input class="inputs" type="text" id="emailOrPhone" />
+
+            <label for="password">PASSWORD<span class="red-star"> *</span></label>
+            <input class="inputs" type="password" id="password" />
+
+            <a href="/Forgot">Forgot your password?</a>
+
+            <button type="button" class="login-btn">Log In</button>
+
+            <br />
+
+            <h5 id="register-text" class="light-gray-text">Need an account? <a id="inline-anchor" href="/Register">Register</a></h5>
+        </div>
+
+        <div class="login-qr">
+            <img src="/Img/DiscordQR.png" alt="QR Code" class="qr-code" />
+            <h1>Log in with QR Code</h1>
+            <h5 class="light-gray-text">Scan this with the <span class="bold-span">Discord mobile app</span> to log in instantly</h5>
+        </div>
+    </div>
+</div>
+
+@code {
+}
