@@ -4,8 +4,8 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="820162f1aef444959317aaf7702c2fa3" Name="Diagram1" >
-        <EntityTypeShape EntityType="DiscordModel.User" Width="1.5" PointX="0.75" PointY="0.75" />
+      <Diagram DiagramId="e6ce882f965349d48c54443f207d0cd4" Name="Diagram1">
+        <EntityTypeShape EntityType="DiscordModel.User" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

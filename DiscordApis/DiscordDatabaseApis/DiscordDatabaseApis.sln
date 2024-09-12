@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordDatabaseApis", "DiscordDatabaseApis\DiscordDatabaseApis.csproj", "{623E5418-1B87-4571-BE2A-0001EF87460D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordDatabaseApis", "DiscordDatabaseApis\DiscordDatabaseApis.csproj", "{623E5418-1B87-4571-BE2A-0001EF87460D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.BlazorDatabaseApis", "Data.BlazorDatabaseApis\Data.BlazorDatabaseApis.csproj", "{7F0AA3F8-DD18-4C7E-882D-5665C81AA8D6}"
 EndProject
